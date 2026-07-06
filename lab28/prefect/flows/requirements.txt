@@ -1,0 +1,4 @@
+kafka-python==2.3.0
+pandas==2.2.3
+pyarrow==18.1.0
+prefect==2.14.0
